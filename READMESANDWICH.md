@@ -16,6 +16,7 @@ let jelly = "🍇";
 ```
 ## Instructions 
 1. Toast bread (unless you're working with freshly baked bread)
+ > hot tip (literally) don't continue to step 3 until your bread has cooled or your peanut butter will melt *too* much!
 
 2. Lay your two slices out side by side 
 
@@ -32,4 +33,13 @@ let jelly = "🍇";
 
 ## Enjoy!
 
-Serve immediately or pack it for later. If taking it to go, wrap it in foil, plastic wrap, or a sandwich bag to keep it fresh.
+ > Serve immediately with your beverage of choice. If saving for later wrap it in foil or plastic wrap to keep it fresh.
+
+ Browse [jelly](https://bonnemaman.us/collections/all?srsltid=AfmBOooxt-yGTMRd8fxnmZW1zuf3mKsVJk94b7CPFdOABu-k4ZcHkL4q) options 
+ 
+ Browse [peanut butter](https://www.peanutbutter.com/) options
+
+ ## My final console.log() for my perfect PB&J would look like:
+ ```javascript
+ console.log("Your perfect PB&J sandwich is ready:", pbjSandwich);
+ ```
